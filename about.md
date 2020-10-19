@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Aims 기술블로그 소개
 permalink: /about/
 ---
 
