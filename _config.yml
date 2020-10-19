@@ -8,7 +8,7 @@ url: "https://aims-dev.github.io" # the base hostname & protocol for your site, 
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: asdf
   links:
     - https://twitter.com/BenBalter
     - https://www.facebook.com/ben.balter
