@@ -31,7 +31,7 @@
       {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %}
       <span class="post-card__meta">
         <!--<time>{{ post.date | date: date_format }}</time>-->
-        {{ post.reg_date }}
+        {{ post.reg_date }}&nbsp;&middot;{{ post.name }}
       </span>
     </div>
     {% if post.summary %}
