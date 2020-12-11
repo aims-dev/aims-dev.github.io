@@ -39,7 +39,7 @@ const MyApp = () => {
 
 <p align="center"><img src="../assets/img/posts/RN_imageFiles/ComponentButton.png"></p>
 
-<center > [이미지출처] : <a href="https://reactnavigation.org/">React Native Elements 공식 사이트<a> </center>
+[이미지출처] : <a href="https://reactnavigation.org/">React Native Elements 공식 사이트<a>
 
 
 
@@ -80,7 +80,7 @@ createStackNavigator는 페이지를 Stack에 쌓아두어 이동하는 방법�
 <div data-snack-id="SWXEXBnce" data-snack-platform="web" data-snack-preview="true" data-snack-theme="light" style="overflow:hidden;background:#F9F9F9;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></div>
 <script async src="https://snack.expo.io/embed.js"></script>
 
-<center > [출처] : <a href="https://reactnavigation.org/docs/navigating/">React Navigation 공식 사이트<a> </center>
+[출처] : <a href="https://reactnavigation.org/docs/navigating/">React Navigation 공식 사이트<a>
 
 
 
