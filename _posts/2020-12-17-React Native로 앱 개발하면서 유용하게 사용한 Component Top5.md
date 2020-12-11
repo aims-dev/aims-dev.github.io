@@ -15,7 +15,7 @@ featured-img: RNComponent
 ## React Native Component Libraries
 
 ### 1. react-native-elements
-* https://reactnativeelements.com/
+* [React Native Elements 공식 사이트](https://reactnavigation.org/)
 
 <p align="center"><img src="../assets/img/posts/RN_imageFiles/elements.png"></p>
 
@@ -42,7 +42,7 @@ const MyApp = () => {
 [이미지출처] : [React Native Elements 공식 사이트](https://reactnavigation.org/)
 
 ### 2. React Navigation v5.0
-* https://reactnavigation.org/
+* [React Navigation 공식 사이트](https://reactnavigation.org/)
 
 <p align="center"><img src="../assets/img/posts/RN_imageFiles/ReactNavgation.png"></p>
 
@@ -82,7 +82,7 @@ createStackNavigator는 페이지를 Stack에 쌓아두어 이동하는 방법�
 
 
 ### 3. Ant Design & Ant Design Mobile
-* https://rn.mobile.ant.design/
+* [Ant Design Mobile 바로가기](https://rn.mobile.ant.design/)
 
 <p align="center"><img src="../assets/img/posts/RN_imageFiles/AntDesgin.png"></p>
 
@@ -93,7 +93,7 @@ Antd는 Ant Financial이 제공하는 React UI Component Library 중 하나로 �
 또한 레이아웃을 제공하기 때문에 디자인이 없더라도 손쉽게 개발을 시작할 수 있고 자세한 API가 제공되기 때문에 퍼블리셔나 초보자들도 쉽고 빠르게 사용할 수 있습니다.
 
 ### 4. react-native-maps
-* https://github.com/react-native-maps/react-native-maps
+* [react-native-maps 바로가기](https://github.com/react-native-maps/react-native-maps)
 
 React Native 커뮤니케이션에서 제공하는 라이브러리입니다. 에임스는 배터리 대여 시스템 및 공유 모빌리티 솔루션을 개발하는 회사인 만큼 지도기능은 필수적입니다. 마찬가지로 나누 사용자 애플리케이션에서도 지도 기능이 필수적으로 들어가야 했기 때문에 `react-native-maps`을 사용하여 지도 화면 부분을 구현하였습니다.
 
@@ -102,7 +102,7 @@ React Native 커뮤니케이션에서 제공하는 라이브러리입니다. 에
 
 
 ### 5. react-native-linear-gradient
-* https://github.com/react-native-linear-gradient/react-native-linear-gradient
+* [react-native-linear-gradient 바로가기](https://github.com/react-native-linear-gradient/react-native-linear-gradient)
 
 expo 환경에서는 gradient가 기본적으로 지원되지만, RN에서는 아직 공식적으로 지원하고 있지 않기 때문에 react-native-linear-gradient 라이브러리를 통해서 사용할 수 있습니다. 간단하게 설치 후에 적용하는 코드와 결과 화면은 다음과 같습니다.
 
