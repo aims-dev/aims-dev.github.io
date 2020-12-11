@@ -98,7 +98,7 @@ Antd는 Ant Financial이 제공하는 React UI Component Library 중 하나로 �
 React Native 커뮤니케이션에서 제공하는 라이브러리입니다. 에임스는 배터리 대여 시스템 및 공유 모빌리티 솔루션을 개발하는 회사인 만큼 지도기능은 필수적입니다. 마찬가지로 나누 사용자 애플리케이션에서도 지도 기능이 필수적으로 들어가야 했기 때문에 `react-native-maps`을 사용하여 지도 화면 부분을 구현하였습니다.
 
 단, 구글맵을 사용하기 위해서는 provideAPIKey가 필수적으로 필요하고 크로스 플랫폼인 만큼 android와 ios에 각기 다른 추가적인 설정과 설치가 필요합니다. 실제 라이브러리를 통해 개발된 화면입니다.
-<p align="center"><img src="../assets/img/posts/RN_imageFiles/mapView.png" height=500></p>
+<p align="center"><img src="../assets/img/posts/RN_imageFiles/mapView.png" height=400></p>
 
 
 ### 5. react-native-linear-gradient
@@ -120,7 +120,7 @@ expo 환경에서는 gradient가 기본적으로 지원되지만, RN에서는 �
 //출처: https://github.com/react-native-linear-gradient/react-native-linear-gradient
 ```
 
-<p align="center"><img src="../assets/img/posts/RN_imageFiles/gradient.png" height=500></p>
+<p align="center"><img src="../assets/img/posts/RN_imageFiles/gradient.png" height=400></p>
 
 
 ---
