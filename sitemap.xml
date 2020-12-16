@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://aims-dev.github.io/</loc>
+  <lastmod>2020-12-16T01:43:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://aims-dev.github.io/about/</loc>
+  <lastmod>2020-12-16T01:43:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aims-dev.github.io/React-Native%EB%A1%9C-%EC%95%B1-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B4%EC%84%9C-%EC%9C%A0%EC%9A%A9%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%9C-Component-Top5/</loc>
+  <lastmod>2020-12-16T01:43:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aims-dev.github.io/%ED%98%84%EC%8B%A4%EC%97%90%EC%84%9C-%EB%8A%90%EB%82%80-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B0%A9%EB%B2%95%EB%A1%A0/</loc>
+  <lastmod>2020-12-16T01:43:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aims-dev.github.io/SW%ED%8C%80-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94/</loc>
+  <lastmod>2020-12-16T01:43:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aims-dev.github.io/MQTT/</loc>
+  <lastmod>2020-12-16T01:43:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aims-dev.github.io/K8S/</loc>
+  <lastmod>2020-12-16T01:43:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aims-dev.github.io/KOTLIN%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4!/</loc>
+  <lastmod>2020-12-16T01:43:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aims-dev.github.io/%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94%EA%B0%80-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B8%B0%EA%B9%8C%EC%A7%80/</loc>
+  <lastmod>2020-12-16T01:43:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aims-dev.github.io/%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EC%B2%98%EC%9D%8C%EC%9D%B8-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85/</loc>
+  <lastmod>2020-12-16T01:43:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aims-dev.github.io/devops-%EB%8F%84%EC%9E%85-%EC%9D%B4%EC%9C%A0/</loc>
+  <lastmod>2020-12-16T01:43:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aims-dev.github.io/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0/</loc>
+  <lastmod>2020-12-16T01:43:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
