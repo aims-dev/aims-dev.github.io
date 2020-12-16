@@ -3,42 +3,41 @@ layout: compress
 ---
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
-
   {% include head.html %}
 
   <body class="site">
-    <style>
-      .progress-bar {
-          background: linear-gradient(to right, white var(--scroll), transparent 0);
-          background-repeat: no-repeat;
-          width: 100%;
-          position: fixed;
-          top: 50px;
-          left: 0;
-          height: 3px;
-          z-index: 9000;
-      }
-      </style>
-      
-      <!-- This is the bar which shows scroll percentage -->
-      <div class="progress-bar"></div>
-      
-      
-      <!-- Script used to generate --scroll variable with current scroll percentage value -->
-      <script>
-      var element = document.documentElement,
-        body = document.body,
-        scrollTop = 'scrollTop',
-        scrollHeight = 'scrollHeight',
-        progress = document.querySelector('.progress-bar'),
-        scroll;
-      
-      document.addEventListener('scroll', function() {
-        scroll = (element[scrollTop]||body[scrollTop]) / ((element[scrollHeight]||body[scrollHeight]) - element.clientHeight) * 100;
-        progress.style.setProperty('--scroll', scroll + '%');
-      });
-      </script>
-      <!-- 하단 진행바 끝 출처: https://blog.webjeda.com/top-bar-website/#scroll-percentage-top-bar -->   
+  <!-- 상단 진행바 시작 -->
+  <style>
+    .progress-bar {
+        background: linear-gradient(to right, white var(--scroll), transparent 0);
+        background-repeat: no-repeat;
+        width: 100%;
+        position: fixed;
+        top: 50px;
+        left: 0;
+        height: 3px;
+        z-index: 9000;
+    }
+    </style>
+    
+    <!-- This is the bar which shows scroll percentage -->
+    <div class="progress-bar"></div>
+    
+    
+    <!-- Script used to generate --scroll variable with current scroll percentage value -->
+   <script>
+    var element = document.documentElement,
+      body = document.body,
+      scrollTop = 'scrollTop',
+      scrollHeight = 'scrollHeight',
+      progress = document.querySelector('.progress-bar'),
+      scroll;
+    
+    document.addEventListener('scroll', function() {
+      scroll = (element[scrollTop]||body[scrollTop]) / ((element[scrollHeight]||body[scrollHeight]) - element.clientHeight) * 100;
+      progress.style.setProperty('--scroll', scroll + '%');
+    });
+    </script>
 
     {% if site.google_tag_manager %}
 
